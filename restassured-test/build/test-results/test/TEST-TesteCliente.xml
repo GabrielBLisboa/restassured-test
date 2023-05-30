@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteCliente" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-30T20:07:51" hostname="CAVERNA" time="4.155">
+  <properties/>
+  <testcase name="When asking for all clients, we should get all of them" classname="TesteCliente" time="2.523"/>
+  <testcase name="When updating a user, the data should change" classname="TesteCliente" time="0.555"/>
+  <testcase name="When deleting a user, it should be empty" classname="TesteCliente" time="0.535"/>
+  <testcase name="When creating an user then it should be available" classname="TesteCliente" time="0.538"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
